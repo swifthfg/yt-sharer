@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Share things in geyik",
+  "description": "This extension will share 'things' from commitstrip",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_popup": "index.html"
+  },
+
+  "permissions": [
+   "activeTab",
+   "http://*/",
+   "https://*/"
+   ]
+}
