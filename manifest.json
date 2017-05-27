@@ -3,7 +3,7 @@
 
   "name": "YT RC Sharer",
   "description": "This extension will share 'things' from commitstrip in YT chat",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "browser_action": {
    "default_popup": "index.html"
@@ -13,7 +13,6 @@
              "128": "yt128.png"},
 
   "permissions": [
-   "activeTab",
    "http://*/",
    "https://*/"
    ]
