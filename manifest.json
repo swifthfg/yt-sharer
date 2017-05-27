@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Share things in geyik",
-  "description": "This extension will share 'things' from commitstrip",
+  "name": "YT RC Sharer",
+  "description": "This extension will share 'things' from commitstrip in YT chat",
   "version": "1.0",
 
   "browser_action": {
