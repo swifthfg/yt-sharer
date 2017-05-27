@@ -9,6 +9,9 @@
    "default_popup": "index.html"
   },
 
+  "icons": { "16": "yt16.png",
+             "128": "yt128.png"},
+
   "permissions": [
    "activeTab",
    "http://*/",
